@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\ArrayManipulation\bin\Debug\netcoreapp2.2\ArrayManipulation.deps.json
+C:\Users\HP\source\repos\ArrayManipulation\bin\Debug\netcoreapp2.2\ArrayManipulation.runtimeconfig.json
+C:\Users\HP\source\repos\ArrayManipulation\bin\Debug\netcoreapp2.2\ArrayManipulation.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ArrayManipulation\bin\Debug\netcoreapp2.2\ArrayManipulation.dll
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.RazorAssemblyInfo.cache
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.RazorAssemblyInfo.cs
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.AssemblyInfo.cs
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.RazorTargetAssemblyInfo.cache
+C:\Users\HP\source\repos\ArrayManipulation\bin\Debug\netcoreapp2.2\ArrayManipulation.pdb
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.dll
+C:\Users\HP\source\repos\ArrayManipulation\obj\Debug\netcoreapp2.2\ArrayManipulation.pdb
